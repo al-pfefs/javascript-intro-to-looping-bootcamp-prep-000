@@ -18,3 +18,7 @@ function whileLoop(num) {
     }
   }
 }
+
+function doWhileLoop(num) {
+  
+}
